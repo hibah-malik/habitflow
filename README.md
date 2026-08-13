@@ -1,17 +1,73 @@
-# project_proposal
+# HabitFlow
 
-A new Flutter project.
+HabitFlow is a Flutter habit tracking app that helps users create, organize, and keep track of daily habits in one place.
 
-## Getting Started
+The app was built as a Flutter web application and can run directly in Chrome.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+* Create and manage habits
+* Track daily progress
+* Organize habits in a simple interface
+* View habit information in one place
+* Built with a responsive Flutter layout
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Flutter
+* Dart
+* Flutter Web
+* Material Design
+
+## How to Run
+
+1. Make sure Flutter is installed on your computer.
+2. Clone or download this repository.
+3. Open the project folder in VS Code or another editor.
+4. Run:
+
+```bash
+flutter pub get
+```
+
+5. Start the web version in Chrome:
+
+```bash
+flutter run -d chrome
+```
+
+## Project Structure
+
+```text
+lib/
+web/
+android/
+ios/
+linux/
+macos/
+windows/
+```
+
+Most of the application logic and interface code can be found inside the `lib` folder.
+
+## Screenshots
+
+Screenshots of the HabitFlow interface will be added here.
+
+## What I Learned
+
+This project gave me more hands-on experience working with Flutter and Dart while building a complete application interface. I also gained more experience with page layouts, user interaction, navigation, and testing a Flutter application in a web environment.
+
+## Future Improvements
+
+Some features I would like to continue improving include:
+
+* More detailed progress tracking
+* Additional habit customization
+* Improved data persistence
+* More visual feedback for completed habits
+* Additional interface improvements
+
+## Author
+
+Hibah Malik
