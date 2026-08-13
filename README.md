@@ -54,6 +54,7 @@ Most of the application logic and interface code can be found inside the `lib` f
 
 Screenshots of the HabitFlow interface will be added here.
 <img width="1917" height="722" alt="s1" src="https://github.com/user-attachments/assets/dee67226-c5ea-475d-91a3-183bb978e385" />
+<img width="993" height="558" alt="image" src="https://github.com/user-attachments/assets/3657cb32-5971-4069-97e0-aaecbadc32a5" />
 <img width="327" height="457" alt="s2" src="https://github.com/user-attachments/assets/da96b97c-3e20-48fe-8ab9-a0c5353f19f3" />
 <img width="1917" height="502" alt="s3" src="https://github.com/user-attachments/assets/a9c3846b-f31c-47e1-a50b-ba46c4f4fbe8" />
 
